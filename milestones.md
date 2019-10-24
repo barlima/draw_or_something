@@ -19,11 +19,17 @@ __What we want to achieve__
 Api and Frontend splitted
 
 Api in Ruby (Rails, Sinatra or Hanami?) Hanami should be fun :)
+
 Front in React (^16 - hooks)
+
 DB can be Mongo or any other NoSQL DB
+
 Api - GraphQL - Front
+
 Images stored in S3 Bucket
+
 Basic UI (Semantic UI)
+
 UI should be responsive - mobile users
 
 Dockerized ??? (maybe at the end of work - not enough space)
